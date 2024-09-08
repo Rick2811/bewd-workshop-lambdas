@@ -1,0 +1,6 @@
+nl\han\bewd\lambdas\Main.class
+nl\han\bewd\lambdas\reis\VervoerStrategy.class
+nl\han\bewd\lambdas\reis\FietsVervoerStrategy.class
+nl\han\bewd\lambdas\reis\AutoVervoerStrategy.class
+nl\han\bewd\lambdas\reis\OVVervoerStrategy.class
+nl\han\bewd\lambdas\reis\Reis.class
